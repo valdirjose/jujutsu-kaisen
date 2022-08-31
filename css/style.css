@@ -1,6 +1,6 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
-    background-image: url(/imagens/1146157.png);
+    background-image: url(imagens/1146157.png);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -94,20 +94,20 @@ body {
 }
 
 .fundo-1 {
-    background: url(/imagens/satoru-gojou-gojou.gif);
+    background: url(imagens/satoru-gojou-gojou.gif);
     background-size: cover;
     background-position: center;
     
 }
 
 .fundo-2 {
-    background-image: url(/imagens/nanami-nanami-kento.gif);
+    background-image: url(imagens/nanami-nanami-kento.gif);
     background-size:cover;
     background-position: center;
 }
 
 .fundo-3 {
-    background-image: url(/imagens/jujutsu-kaisen-megumi-fushiguro.gif);
+    background-image: url(imagens/jujutsu-kaisen-megumi-fushiguro.gif);
     background-size: cover;
     background-position: center;
 }
