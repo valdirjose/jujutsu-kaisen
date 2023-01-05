@@ -2,7 +2,7 @@ body {
   font-family: "Nanum Gothic", sans-serif;
   background-image: url(../imagens/1146157.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
 }
 
 .persona {
